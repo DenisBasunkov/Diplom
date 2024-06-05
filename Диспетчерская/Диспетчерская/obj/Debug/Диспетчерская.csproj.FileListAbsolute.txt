@@ -1,0 +1,312 @@
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csprojAssemblyReference.cache
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Properties.Resources.resources
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.GenerateResource.cache
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CoreCompileInputs.cache
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CopyComplete
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.exe
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.pdb
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\Диспетчерская.exe.config
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\Диспетчерская.exe
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\Диспетчерская.pdb
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\Bunifu_UI_v1.52.dll
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\EntityFramework.dll
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.dll
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\MetroFramework.Design.dll
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\MetroFramework.dll
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\MetroFramework.Fonts.dll
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\System.Data.SQLite.dll
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\System.Data.SQLite.EF6.dll
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\System.Data.SQLite.Linq.dll
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\EntityFramework.xml
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.xml
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\System.Data.SQLite.xml
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\System.Data.SQLite.dll.config
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vhod.resources
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.GlavForm.resources
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Administrator.resources
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Registrat.resources
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vodoprovod.resources
+C:\Users\DENIS\source\repos\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Polzov.resources
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csprojAssemblyReference.cache
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Administrator.resources
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vhod.resources
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.GlavForm.resources
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Polzov.resources
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Properties.Resources.resources
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Registrat.resources
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vodoprovod.resources
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.GenerateResource.cache
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CoreCompileInputs.cache
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CopyComplete
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\Диспетчерская.exe.config
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.exe
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.pdb
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\Диспетчерская.exe
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\Диспетчерская.pdb
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\EntityFramework.dll
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.dll
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\MetroFramework.Design.dll
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\MetroFramework.dll
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\MetroFramework.Fonts.dll
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\System.Data.SQLite.dll
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\System.Data.SQLite.EF6.dll
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\System.Data.SQLite.Linq.dll
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\EntityFramework.xml
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.xml
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\System.Data.SQLite.xml
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\System.Data.SQLite.dll.config
+C:\Users\DENIS\Desktop\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodoForm.resources
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csprojAssemblyReference.cache
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Administrator.resources
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vhod.resources
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.GlavForm.resources
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Polzov.resources
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Properties.Resources.resources
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Registrat.resources
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodoForm.resources
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vodoprovod.resources
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.GenerateResource.cache
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CoreCompileInputs.cache
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CopyComplete
+D:\с++\Диспетчерская\Диспетчерская\Диспетчерская.exe.config
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.exe
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.pdb
+D:\с++\Диспетчерская\Диспетчерская\Диспетчерская.exe
+D:\с++\Диспетчерская\Диспетчерская\Диспетчерская.pdb
+D:\с++\Диспетчерская\Диспетчерская\EntityFramework.dll
+D:\с++\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.dll
+D:\с++\Диспетчерская\Диспетчерская\MetroFramework.Design.dll
+D:\с++\Диспетчерская\Диспетчерская\MetroFramework.dll
+D:\с++\Диспетчерская\Диспетчерская\MetroFramework.Fonts.dll
+D:\с++\Диспетчерская\Диспетчерская\System.Data.SQLite.dll
+D:\с++\Диспетчерская\Диспетчерская\System.Data.SQLite.EF6.dll
+D:\с++\Диспетчерская\Диспетчерская\System.Data.SQLite.Linq.dll
+D:\с++\Диспетчерская\Диспетчерская\EntityFramework.xml
+D:\с++\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.xml
+D:\с++\Диспетчерская\Диспетчерская\System.Data.SQLite.xml
+D:\с++\Диспетчерская\Диспетчерская\System.Data.SQLite.dll.config
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csprojAssemblyReference.cache
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Administrator.resources
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vhod.resources
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.GlavForm.resources
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Polzov.resources
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Properties.Resources.resources
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Registrat.resources
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodoForm.resources
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vodoprovod.resources
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.GenerateResource.cache
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CoreCompileInputs.cache
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CopyComplete
+H:\с++\Диспетчерская\Диспетчерская\Диспетчерская.exe.config
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.exe
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.pdb
+H:\с++\Диспетчерская\Диспетчерская\Диспетчерская.exe
+H:\с++\Диспетчерская\Диспетчерская\Диспетчерская.pdb
+H:\с++\Диспетчерская\Диспетчерская\EntityFramework.dll
+H:\с++\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.dll
+H:\с++\Диспетчерская\Диспетчерская\MetroFramework.Design.dll
+H:\с++\Диспетчерская\Диспетчерская\MetroFramework.dll
+H:\с++\Диспетчерская\Диспетчерская\MetroFramework.Fonts.dll
+H:\с++\Диспетчерская\Диспетчерская\System.Data.SQLite.dll
+H:\с++\Диспетчерская\Диспетчерская\System.Data.SQLite.EF6.dll
+H:\с++\Диспетчерская\Диспетчерская\System.Data.SQLite.Linq.dll
+H:\с++\Диспетчерская\Диспетчерская\EntityFramework.xml
+H:\с++\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.xml
+H:\с++\Диспетчерская\Диспетчерская\System.Data.SQLite.xml
+H:\с++\Диспетчерская\Диспетчерская\System.Data.SQLite.dll.config
+D:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodOtch.resources
+H:\с++\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodOtch.resources
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csprojAssemblyReference.cache
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Administrator.resources
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vhod.resources
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.GlavForm.resources
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Polzov.resources
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Properties.Resources.resources
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Registrat.resources
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodoForm.resources
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vodoprovod.resources
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodOtch.resources
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.GenerateResource.cache
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CoreCompileInputs.cache
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CopyComplete
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\Диспетчерская.exe.config
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.exe
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.pdb
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\Диспетчерская.exe
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\Диспетчерская.pdb
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\EntityFramework.dll
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.dll
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\MetroFramework.Design.dll
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\MetroFramework.dll
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\MetroFramework.Fonts.dll
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\System.Data.SQLite.dll
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\System.Data.SQLite.EF6.dll
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\System.Data.SQLite.Linq.dll
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\EntityFramework.xml
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.xml
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\System.Data.SQLite.xml
+V:\Управление\ИТ\Денис\Диспетчерская\Диспетчерская\System.Data.SQLite.dll.config
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csprojAssemblyReference.cache
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Administrator.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vhod.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.GlavForm.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Kanalizatia.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Polzov.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Properties.Resources.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Registrat.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodoForm.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vodoprovod.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodOtch.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.GenerateResource.cache
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CoreCompileInputs.cache
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CopyComplete
+D:\с++\1\Диспетчерская\Диспетчерская\Диспетчерская.exe.config
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.exe
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.pdb
+D:\с++\1\Диспетчерская\Диспетчерская\Диспетчерская.exe
+D:\с++\1\Диспетчерская\Диспетчерская\Диспетчерская.pdb
+D:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.dll
+D:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.dll
+D:\с++\1\Диспетчерская\Диспетчерская\MetroFramework.Design.dll
+D:\с++\1\Диспетчерская\Диспетчерская\MetroFramework.dll
+D:\с++\1\Диспетчерская\Диспетчерская\MetroFramework.Fonts.dll
+D:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.dll
+D:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.EF6.dll
+D:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.Linq.dll
+D:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.xml
+D:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.xml
+D:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.xml
+D:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.dll.config
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Obrajhenia.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csprojAssemblyReference.cache
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Administrator.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vhod.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.GlavForm.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Kanalizatia.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Obrajhenia.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Polzov.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Properties.Resources.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Registrat.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodoForm.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vodoprovod.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodOtch.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.GenerateResource.cache
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CoreCompileInputs.cache
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.exe
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.pdb
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CopyComplete
+H:\с++\1\Диспетчерская\Диспетчерская\Диспетчерская.exe.config
+H:\с++\1\Диспетчерская\Диспетчерская\Диспетчерская.exe
+H:\с++\1\Диспетчерская\Диспетчерская\Диспетчерская.pdb
+H:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.dll
+H:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.dll
+H:\с++\1\Диспетчерская\Диспетчерская\MetroFramework.Design.dll
+H:\с++\1\Диспетчерская\Диспетчерская\MetroFramework.dll
+H:\с++\1\Диспетчерская\Диспетчерская\MetroFramework.Fonts.dll
+H:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.dll
+H:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.EF6.dll
+H:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.Linq.dll
+H:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.xml
+H:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.xml
+H:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.xml
+H:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.dll.config
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.KanalForm.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.KanalForm.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.DatTime.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.DatTime.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.KanalOtch.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.KanalOtch.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.ObrajhForm.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.ObrajhOtch.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Form2.resources
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Interop.AcroPDFLib.dll
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.ResolveComReference.cache
+D:\с++\1\Диспетчерская\Диспетчерская\Interop.AcroPDFLib.dll
+D:\с++\1\Диспетчерская\Диспетчерская\AxInterop.AcroPDFLib.dll
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.ResolveComReference.cache
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Form2.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.ObrajhForm.resources
+H:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.ObrajhOtch.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csprojResolveAssemblyReference.cache
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.ResolveComReference.cache
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Administrator.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.DatTime.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vhod.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Form2.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.GlavForm.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.KanalForm.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Kanalizatia.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.KanalOtch.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Obrajhenia.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.ObrajhForm.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.ObrajhOtch.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Polzov.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Properties.Resources.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Registrat.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodoForm.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vodoprovod.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodOtch.resources
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.GenerateResource.cache
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CoreCompileInputs.cache
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.exe
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.pdb
+F:\с++\1\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CopyComplete
+F:\с++\1\Диспетчерская\Диспетчерская\Диспетчерская.exe.config
+F:\с++\1\Диспетчерская\Диспетчерская\Диспетчерская.exe
+F:\с++\1\Диспетчерская\Диспетчерская\Диспетчерская.pdb
+F:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.dll
+F:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.dll
+F:\с++\1\Диспетчерская\Диспетчерская\MetroFramework.Design.dll
+F:\с++\1\Диспетчерская\Диспетчерская\MetroFramework.dll
+F:\с++\1\Диспетчерская\Диспетчерская\MetroFramework.Fonts.dll
+F:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.dll
+F:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.EF6.dll
+F:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.Linq.dll
+F:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.xml
+F:\с++\1\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.xml
+F:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.xml
+F:\с++\1\Диспетчерская\Диспетчерская\System.Data.SQLite.dll.config
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csprojAssemblyReference.cache
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Interop.AcroPDFLib.dll
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.ResolveComReference.cache
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Administrator.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.DatTime.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vhod.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Form2.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.GlavForm.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.KanalForm.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Kanalizatia.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.KanalOtch.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Obrajhenia.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.ObrajhForm.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.ObrajhOtch.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Polzov.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Properties.Resources.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Registrat.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodoForm.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.Vodoprovod.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.VodOtch.resources
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.GenerateResource.cache
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CoreCompileInputs.cache
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.csproj.CopyComplete
+E:\15 КПК\Диспетчерская\Диспетчерская\Диспетчерская.exe.config
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.exe
+E:\15 КПК\Диспетчерская\Диспетчерская\obj\Debug\Диспетчерская.pdb
+E:\15 КПК\Диспетчерская\Диспетчерская\Диспетчерская.exe
+E:\15 КПК\Диспетчерская\Диспетчерская\Диспетчерская.pdb
+E:\15 КПК\Диспетчерская\Диспетчерская\EntityFramework.dll
+E:\15 КПК\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.dll
+E:\15 КПК\Диспетчерская\Диспетчерская\MetroFramework.Design.dll
+E:\15 КПК\Диспетчерская\Диспетчерская\MetroFramework.dll
+E:\15 КПК\Диспетчерская\Диспетчерская\MetroFramework.Fonts.dll
+E:\15 КПК\Диспетчерская\Диспетчерская\System.Data.SQLite.dll
+E:\15 КПК\Диспетчерская\Диспетчерская\System.Data.SQLite.EF6.dll
+E:\15 КПК\Диспетчерская\Диспетчерская\System.Data.SQLite.Linq.dll
+E:\15 КПК\Диспетчерская\Диспетчерская\EntityFramework.xml
+E:\15 КПК\Диспетчерская\Диспетчерская\EntityFramework.SqlServer.xml
+E:\15 КПК\Диспетчерская\Диспетчерская\System.Data.SQLite.xml
+E:\15 КПК\Диспетчерская\Диспетчерская\System.Data.SQLite.dll.config
+E:\15 КПК\Диспетчерская\Диспетчерская\Interop.AcroPDFLib.dll
+E:\15 КПК\Диспетчерская\Диспетчерская\AxInterop.AcroPDFLib.dll
